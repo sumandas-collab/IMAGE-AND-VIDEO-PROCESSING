@@ -46,7 +46,8 @@ To detect edges using Laplacian of Gaussian method.
 
 ## Result
 
-![LoG Edge Detection](Figure_1.png)
+<img width="1398" height="876" alt="Figure_1" src="https://github.com/user-attachments/assets/da55d7c6-3173-4754-99f3-b305871196a8" />
+
 
 ### Observations
 - Gaussian smoothing reduces noise
@@ -62,7 +63,8 @@ To detect edges using the Canny algorithm.
 
 ## Result
 
-![Canny Edge Detection](Figure_2.png)
+<img width="1864" height="875" alt="Figure_2" src="https://github.com/user-attachments/assets/fdd2fe18-e7d8-48a2-a7e6-f8155075ac87" />
+
 
 ### Observations
 - Thin and continuous edges obtained
@@ -78,7 +80,8 @@ To enhance image details using high boost filtering.
 
 ## Result
 
-![High Boost Filtering](Figure_3.png)
+<img width="1418" height="876" alt="Figure_3" src="https://github.com/user-attachments/assets/df67a808-df20-446c-bc13-eec41ee27982" />
+
 
 ### Observations
 - Image sharpness improved
@@ -94,7 +97,8 @@ To remove high-frequency noise using Gaussian LPF.
 
 ## Result
 
-![Gaussian LPF](Figure_4.png)
+<img width="1398" height="876" alt="Figure_4" src="https://github.com/user-attachments/assets/319fdb86-57b6-43af-b525-986bc977fc62" />
+
 
 ### Observations
 - Image becomes smoother
@@ -110,7 +114,8 @@ To perform morphological operations on fingerprint images.
 
 ## Result
 
-![Morphological Operations](Figure_5.png)
+<img width="1312" height="874" alt="Figure_5" src="https://github.com/user-attachments/assets/ad6e20d2-8477-490f-bc8f-0fea3d5c24f4" />
+
 
 ### Observations
 - Opening removes small noise
@@ -125,8 +130,8 @@ To perform morphological operations on fingerprint images.
 To restore blurred images using inverse filtering.
 
 ## Result
+<img width="1864" height="714" alt="Figure_6" src="https://github.com/user-attachments/assets/d1623ce4-1527-42bb-a27a-05d80997304a" />
 
-![Inverse Filtering](Figure_6.png)
 
 ### Observations
 - Blur partially restored
@@ -142,7 +147,8 @@ To reduce noise amplification during restoration.
 
 ## Result
 
-![Radially Limited Inverse Filtering](Figure_7.png)
+<img width="1398" height="876" alt="Figure_7" src="https://github.com/user-attachments/assets/e6f75fa8-4e1b-4c54-8129-7e20002849ed" />
+
 
 ### Observations
 - Better stability than ordinary inverse filtering
@@ -157,8 +163,8 @@ To reduce noise amplification during restoration.
 To restore degraded images using Wiener filtering.
 
 ## Result
+<img width="1398" height="876" alt="Figure_8" src="https://github.com/user-attachments/assets/2c826df1-c0bd-4a56-834d-bbc7e6e9281a" />
 
-![Wiener Filtering](Figure_8.png)
 
 ### Observations
 - Blur and noise both reduced
